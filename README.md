@@ -17,7 +17,7 @@ This project allows users to:
 
 ---
 How to Run:
-1. Open the project in *Code::Blocks*
+1. Open the project in any id.
 2. Build and run the code
 3. Follow the menu instructions in the terminal
 
